@@ -1,4 +1,4 @@
-name: ATM Machine
+name: Web application
 
 on: [push]
 
